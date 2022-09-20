@@ -7,4 +7,5 @@ número = n  #numero entero a multiplicar
 desde = m  #desde que numero desé que multiplique
 
 for f in range (1,m+1):
-  print(f'{número} x {f} = {número * f}')
+  print(f'{número} x {f} = {número * f}´)
+  #hola jaja
